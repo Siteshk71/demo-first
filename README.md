@@ -1,2 +1,3 @@
 # demo-first
 this is a demo project only for understanding command of *git.....
+Author: Sitesh Kumar
